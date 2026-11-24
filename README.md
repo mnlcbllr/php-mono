@@ -1110,3 +1110,9 @@ Validator Class:
 Provides flexible and powerful data validation.
 Supports multiple validation rules, custom messages, and error handling.
 These tools help ensure that your application handles authentication and data validation securely and efficiently.
+
+## Project links
+
+- [Mono project overview](https://manuelcaballero.dev/projects/php-mono)
+- [Manuel Caballero — Full-Stack AI Engineer](https://manuelcaballero.dev)
+
